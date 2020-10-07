@@ -1,0 +1,10 @@
+html{
+    width: 1260px;
+    height: 880px;
+    background-color: #edf2c5;
+}
+.container{
+    max-width: 940;
+    margin-left: auto;
+    margin-right: auto;
+}
